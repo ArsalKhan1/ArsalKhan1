@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 👯 I’m looking to collaborate on Open-Source Projects
+- ⚡ Fun fact: In my free time, I love engaging in sports such as basketball and soccer
 
 <!--
 **ArsalKhan1/ArsalKhan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +15,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: In my free time, I love engaging in sports such as basketball and soccer
 -->

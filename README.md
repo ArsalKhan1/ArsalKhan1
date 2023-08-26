@@ -1,8 +1,11 @@
 ### Hi there 👋
-
+- 👨‍💻 My name is Arsal
+- 🔭 I’m a passionate and enthusiastic Software Engineer looking to change the world through the use of technology
+- 🌱 I’m currently looking for Summer 2024 Internships
 - 👯 I’m looking to collaborate on Open-Source Projects
 - ⚡ Fun fact: In my free time, I love engaging in sports such as basketball and soccer
 
+ 
 <!--
 **ArsalKhan1/ArsalKhan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
